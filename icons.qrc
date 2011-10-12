@@ -1,0 +1,37 @@
+<RCC>
+    <qresource prefix="/toolbar">
+        <file>images/format-text-underline.png</file>
+        <file>images/document-new.png</file>
+        <file>images/document-save.png</file>
+        <file>images/edit-copy.png</file>
+        <file>images/edit-cut.png</file>
+        <file>images/edit-find-replace.png</file>
+        <file>images/edit-paste.png</file>
+        <file>images/edit-redo.png</file>
+        <file>images/edit-undo.png</file>
+        <file>images/folder-new.png</file>
+        <file>images/format-text-bold.png</file>
+        <file>images/format-text-italic.png</file>
+        <file>images/format-text-strikethrough.png</file>
+        <file>images/format-justify-right.png</file>
+        <file>images/format-justify-center.png</file>
+        <file>images/format-justify-fill.png</file>
+        <file>images/format-justify-left.png</file>
+        <file>images/format-font-color.png</file>
+        <file>images/list-numbered.png</file>
+        <file>images/format-indent-less.png</file>
+        <file>images/format-indent-more.png</file>
+        <file>images/list-bullets.png</file>
+        <file>images/list-lower-alpha.png</file>
+    </qresource>
+    <qresource prefix="/icons">
+        <file>brainstorm.icns</file>
+        <file>brainstorm.png</file>
+        <file>images/Brainstorm_512x512x32.png</file>
+        <file>images/Brainstorm16.ico</file>
+        <file>images/Brainstorm32.ico</file>
+        <file>images/Brainstorm_48x48x32.png</file>
+        <file>images/Brainstorm_128x128x32.png</file>
+        <file>images/Brainstorm_256x256x32.png</file>
+    </qresource>
+</RCC>

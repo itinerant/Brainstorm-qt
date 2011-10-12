@@ -1,0 +1,22 @@
+* right-click functionality in lists
+
+* BUG: focus in note list
+* BUG: order lists by case-insensitive manner
+
+* visual sizes on toolbar should be different for different platforms
+    * checked on OSX
+* automatically edit (rename) on new category/note
+
+* printing
+* find and replace
+
+* support for tables
+
+* import and export
+    Save As RTF (single note)
+    Save All as RTF
+    import RTF
+    import HTML
+
+* help files
+
